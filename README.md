@@ -7,7 +7,7 @@ Protocol and makes it available as a simple CSV file.
 See the [UNFCCC page on the Ratification Status](http://unfccc.int/kyoto_protocol/doha_amendment/items/7362.php) for
 further information.
 Source for this dataset is the XML version in the official [UN Treaty
-Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-c&chapter=27&clang=_en#1)
+Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-c&chapter=27&clang=_en)
 
 
 ## Preparation
