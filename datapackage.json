@@ -1,0 +1,38 @@
+{
+  "sources": [
+    {
+      "name": "United Nations Treaty Collection",
+      "web": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-c&chapter=27&clang=_en#1"
+    }
+  ],
+  "resources": [
+    {
+      "name": "doha-amendment",
+      "path": "data/doha-amendment.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1633,
+      "schema": {
+        "fields": [
+          {
+            "name": "Code",
+            "type": "number",
+            "description": "Country Code (ISO3166-1-Alpha-3 )"
+          },
+          {
+            "name": "Name",
+            "type": "string",
+            "description": "Country Name"
+          },
+          {
+            "name": "Acceptance",
+            "type": "date",
+            "description": "Date of Acceptance"
+          }
+        ]
+      }
+    }
+  ],
+  "name": "doha-amendment",
+  "title": "Ratification Status of the Doha Amendment to the Kyoto Protocol"
+}
