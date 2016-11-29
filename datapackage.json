@@ -29,7 +29,8 @@
             "type": "date",
             "description": "Date of Acceptance"
           }
-        ]
+        ],
+        "primaryKey": "Code"
       }
     }
   ],
