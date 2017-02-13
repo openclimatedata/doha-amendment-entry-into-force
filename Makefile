@@ -8,6 +8,6 @@ venv: scripts/requirements.txt
 	touch venv
 
 clean:
-	rm data/*.csv venv
+	rm -r data/*.csv venv
 
 .PHONY: clean
