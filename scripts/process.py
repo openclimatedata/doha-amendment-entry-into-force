@@ -1,6 +1,7 @@
 
 import os
 import re
+import sys
 import xml.etree.ElementTree as ET
 
 import countrynames
@@ -14,6 +15,13 @@ treaty_url = "https://treaties.un.org/doc/Publication/MTDSG/Volume%20II/Chapter%
 outfile = os.path.join(path, "../data/doha-amendment.csv")
 print("Fetching ", treaty_url)
 r = requests.get(treaty_url)
+
+if "urgent maintenance and is currently unavailable" in r.text:
+    print("\nNo data found.")
+    print("\nMaybe https://treaties.un.org/Pages/ViewDetails.aspx?"
+          "src=TREATY&mtdsg_no=XXVII-7-c&chapter=27&clang=_en is down?")
+    sys.exit()
+
 
 xml = r.text
 tree = ET.fromstring(xml)
