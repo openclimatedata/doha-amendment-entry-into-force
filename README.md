@@ -19,6 +19,6 @@ into a Virtualenv when run with
 make
 ```
 
-Running `make` will also fetch and update the dataset. The download and
-extraction is done in `script/process.py`.
+Running `make` will also update the repo, then fetch and update the dataset. The
+download and extraction is done in `script/process.py`.
 

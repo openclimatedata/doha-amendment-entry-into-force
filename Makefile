@@ -1,5 +1,7 @@
 all: venv
+	git pull
 	./venv/bin/python scripts/process.py
+	@git diff data
 
 venv: scripts/requirements.txt
 	[ -d ./venv ] || python3 -m venv venv
