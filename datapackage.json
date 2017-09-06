@@ -16,7 +16,7 @@
         "fields": [
           {
             "name": "Code",
-            "type": "number",
+            "type": "string",
             "description": "Country Code (ISO3166-1-Alpha-3 )"
           },
           {
