@@ -1,3 +1,5 @@
+unidecode
 countrynames
 pandas
 requests
+goodtables
