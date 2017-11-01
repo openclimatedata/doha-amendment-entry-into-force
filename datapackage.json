@@ -3,6 +3,10 @@
     {
       "title": "United Nations Treaty Collection",
       "web": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVII-7-c&chapter=27&clang=_en"
+    },
+    {
+      "title": "Status of the Doha Amendment",
+      "web": "http://unfccc.int/kyoto_protocol/doha_amendment/items/7362.php"
     }
   ],
   "resources": [
@@ -35,5 +39,6 @@
     }
   ],
   "name": "doha-amendment",
-  "title": "Ratification Status of the Doha Amendment to the Kyoto Protocol"
+  "title": "Ratification Status of the Doha Amendment to the Kyoto Protocol",
+  "description": "Countries who have ratified the Doha Amendment establishing the second commitment period of the Kyoto Protocol"
 }
