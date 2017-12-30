@@ -4,6 +4,7 @@ ATG,Antigua and Barbuda,2016-09-23
 ARG,Argentina,2015-12-01
 ARM,Armenia,2017-03-31
 AUS,Australia,2016-11-09
+AUT,Austria,2017-12-21
 AZE,Azerbaijan,2015-07-01
 BHS,Bahamas,2015-11-04
 BGD,Bangladesh,2013-11-13
@@ -12,6 +13,7 @@ BEL,Belgium,2017-11-14
 BTN,Bhutan,2015-09-29
 BWA,Botswana,2016-03-07
 BRN,Brunei Darussalam,2014-11-14
+BGR,Bulgaria,2017-12-21
 BFA,Burkina Faso,2016-11-29
 KHM,Cambodia,2015-11-17
 CHL,Chile,2015-11-10
@@ -19,18 +21,24 @@ CHN,China,2014-06-02
 COM,Comoros,2014-09-07
 COG,Congo,2015-05-14
 CRI,Costa Rica,2016-09-21
+HRV,Croatia,2017-12-21
 CUB,Cuba,2016-12-28
 CYP,Cyprus,2015-12-10
+CZE,Czech Republic,2017-12-21
+DNK,Denmark,2017-12-21
 DJI,Djibouti,2014-09-23
 DOM,Dominican Republic,2016-09-21
 ECU,Ecuador,2015-04-20
+EST,Estonia,2017-12-21
 ETH,Ethiopia,2015-06-26
+EUU,European Union,2017-12-21
 FJI,Fiji,2017-09-19
 FIN,Finland,2017-11-16
 FRA,France,2017-11-30
 GAB,Gabon,2017-12-01
 GMB,Gambia,2016-11-07
 DEU,Germany,2017-11-14
+GRC,Greece,2017-12-21
 GRD,Grenada,2015-04-01
 GIN,Guinea,2016-04-06
 GUY,Guyana,2014-12-23
@@ -39,9 +47,11 @@ HUN,Hungary,2015-10-01
 ISL,Iceland,2015-10-07
 IND,India,2017-08-08
 IDN,Indonesia,2014-09-30
+IRL,Ireland,2017-12-21
 ITA,Italy,2016-07-18
 KEN,Kenya,2014-04-07
 KIR,Kiribati,2016-02-11
+LVA,Latvia,2017-12-21
 LBR,Liberia,2015-08-17
 LIE,Liechtenstein,2015-02-23
 LTU,Lithuania,2017-11-22
@@ -51,6 +61,7 @@ MWI,Malawi,2017-06-29
 MYS,Malaysia,2017-04-12
 MDV,Maldives,2015-07-01
 MLI,Mali,2015-12-07
+MLT,Malta,2017-12-21
 MHL,Marshall Islands,2015-05-07
 MUS,Mauritius,2013-09-05
 MEX,Mexico,2014-09-23
@@ -78,6 +89,7 @@ SRB,Serbia,2017-06-30
 SYC,Seychelles,2015-07-15
 SGP,Singapore,2014-09-23
 SVK,Slovakia,2017-11-16
+SVN,Slovenia,2017-12-21
 SLB,Solomon Islands,2014-09-05
 ZAF,South Africa,2015-05-07
 ESP,Spain,2017-11-14
