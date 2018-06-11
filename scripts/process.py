@@ -36,7 +36,7 @@ for row in rows:
     entries.append((name, date,))
 
 df = pd.DataFrame.from_records(entries, columns=('Name', 'Acceptance'))
-df.index = df.Name.apply(countrynames.to_alpha_3)
+df.index = df.Name.apply(countrynames.to_code_3)
 df.index.name = "Code"
 
 df.to_csv(outfile)
