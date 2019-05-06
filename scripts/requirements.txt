@@ -2,4 +2,4 @@ unidecode
 pandas
 requests
 goodtables
-git+git://github.com/occrp/countrynames.git
+countrynames
