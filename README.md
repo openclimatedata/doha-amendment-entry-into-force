@@ -1,5 +1,7 @@
 Ratification Status of the Doha Amendment to the Kyoto Protocol
 
+[![Daily Update](https://github.com/openclimatedata/doha-amendment-entry-into-force/workflows/Daily%20Update/badge.svg)](https://github.com/openclimatedata/doha-amendment-entry-into-force/actions)
+
 ## Data
 
 The dataset contains dates of acceptance of the Doha Amendment to the Kyoto
