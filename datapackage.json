@@ -15,7 +15,6 @@
       "path": "data/doha-amendment.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 1633,
       "schema": {
         "fields": [
           {

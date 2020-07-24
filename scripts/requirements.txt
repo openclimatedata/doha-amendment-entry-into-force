@@ -2,4 +2,4 @@ unidecode
 pandas
 requests
 goodtables
-countrynames
+countrynames==1.6.0
