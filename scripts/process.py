@@ -30,7 +30,7 @@ rows = tree.find("Treaty/Participants/Table/TGroup/Tbody/Rows")
 entries = []
 for row in rows:
     # Remove footnotes from country names.
-    name = re.sub('<superscript>.</superscript>', '', row[0].text)
+    name = re.sub('<superscript>.+</superscript>', '', row[0].text)
     # Parse dates, remove " A" from end of string.
     date = pd.to_datetime(row[1].text.replace("\t", "")[:-2])
     entries.append((name, date,))
