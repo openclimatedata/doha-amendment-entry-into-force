@@ -1,6 +1,8 @@
 Ratification Status of the Doha Amendment to the Kyoto Protocol
 
-[![Daily Update](https://github.com/openclimatedata/doha-amendment-entry-into-force/workflows/Daily%20Update/badge.svg)](https://github.com/openclimatedata/doha-amendment-entry-into-force/actions)
+See <https://unfccc.int/process/the-kyoto-protocol/the-doha-amendment>.
+
+The amendment entered into force on 31 December 2020.
 
 ## Data
 
