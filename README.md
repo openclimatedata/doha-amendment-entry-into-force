@@ -16,7 +16,7 @@ Collection](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=X
 
 ## Preparation
 
-The `Makefile` requires Python3 and will automatically install its dependencies
+The `Makefile` requires Python 3 and will automatically install its dependencies
 into a Virtualenv when run with
 
 ```shell
